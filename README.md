@@ -22,7 +22,7 @@ To prepare the training dataset, all Thai banknote images were manually annotate
 #### 1️⃣ Install LabelImg
 ```bash
 pip install labelImg
-
+```
 
 ---
 
